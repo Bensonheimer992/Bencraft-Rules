@@ -8,3 +8,5 @@
 - Bitte beachte die Allgemeinen Regeln dazu.
 
 - Streamsnipen ist verboten d.h. das du nicht über einen Livestream von jemandem nachschauen darfst wo und wie er sich versteckt.
+
+- Optifine ist nicht erlaubt das es zu Visuellen Bugs kommen kann und dadruch werden die Blöcke nicht richtig angezeigt.
